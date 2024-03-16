@@ -1,0 +1,21 @@
+.nav-item a {
+    display: inline-block;
+    position: relative;
+    text-decoration: none;
+    color: black;
+}
+
+.nav-item a::before {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 0;
+    height: 2px;
+    background-color: black;
+    transition: width 0.3s ease;
+}
+
+.nav-item a:hover::before {
+    width: 100%;
+}
