@@ -1,0 +1,207 @@
+INSERT INTO individuals (name, id_number, category, year)
+VALUES
+('ABHIK DAS', 'EB/04813/2021', 'NB/WB', 2023),
+('Abhimanyu Shandilya', 'F/229/301/2017', 'NB/WB', 2021),
+('Abu Sayed', 'EB/00731/627/2019', 'NB/WB', 2021),
+('Abu Sayed Mostafa Siraj', 'F/00678/2012', 'NB/WB', 2021),
+('Adv SAJAL DAS', 'EB/04755/2021', 'NB/WB', 2023),
+('Ali Hasan', 'EB/945/1284/2022', 'NB/WB', 2022),
+('Altaf Bhutia', 'F/1319/4243/2022', 'NB/WB', 2023),
+('Amit Nandi', 'F/246/38//2019', 'NB/WB', 2024),
+('Amitava Chakraborty', 'F/939/2017', 'NB/WB', 2022),
+('Anand Farmania', 'F/1901/2013', 'NB/WB', 2021),
+('Ananta Mitra', 'EB/00292/2006', 'NB/WB', 2022),
+('ANIK SARKAR', 'EB/04812/2021', 'NB/WB', 2022),
+('Aniket Joardar', 'EB/WB406/1997', 'NB/WB', 2023),
+('Anindya Chakravarty', 'WB/1377/1999', 'NB/WB', 2020),
+('Anirban Gope', 'EB/00424/2009', 'NB/WB', 2023),
+('Aniruddh Poddar', 'WB/1440/2009', 'NB/WB', 2021),
+('ANITA KAUNDA', 'EB/01862/2009', 'NB/WB', 2021),
+('ANKIT SINGHA', 'F/1262/1108/2015', 'NB/WB', 2019),
+('Annushka Chakraborty', 'F/1615/1474/2021', 'NB/WB', 2022),
+('Anreb Kumar Banerjee', 'F/248/168/2015', 'NB/WB', 1970),
+('Anurag Modi', 'EB/03923/2021', 'NB/WB', 2023),
+('Archisman Pramanik', 'F/3297/2022', 'NB/WB', 2023),
+('Arjun Chowdhury', 'F/1957/1624/2017', 'NB/WB', 1970),
+('Arka Bhattacharya', 'F/2073/2021', 'NB/WB', 2022),
+('Arnab Kumar Banerjee', 'F/248/168/2015', 'NB/WB', 2019),
+('Arnab Kumar Panda', 'F/2705/2021', 'NB/WB', 2022),
+('Ashok Kumar Singh', 'WES/01405/2000', 'NB/WB', 2021),
+('Asim Kumar Niyogi', 'EB/wB692/1983', 'NB/WB', 2021),
+('ASWINIKUMAR BAIRAGI', 'EB/97512/2021', 'NB/WB', 2022),
+('Aungshuman Ghosh', 'EB/1999/2003', 'NB/WB', 2024),
+('Avisek Dey', 'EB/1801/2011', 'NB/WB', 2021),
+('AYAN SHARMA', 'EB/01117/2017', 'NB/WB', 2023),
+('Beetihotra Sadhu', 'F/1413/2018', 'NB/WB', 2023),
+('Bhaskar Deb', 'F/1943/1712/2011', 'NB/WB', 1970),
+('Bijoy Sarkar', 'F/554/418/2021', 'NB/WB', 2021),
+('Biswajit Mandal', 'f256/35/2015', 'NB/WB', 2021),
+('Brijesh Kumar Singh', 'F/1174/1175/2001', 'NB/WB', 2019),
+('Chandan Dey', 'F/230/255/2010', 'NB/WB', 2023),
+('CHHATAN CHAKRABORTY', 'EB/00820/2010', 'NB/WB', 2022),
+('Choudhury Asif Iqbal', 'WB/1113/2004', 'NB/WB', 2019),
+('Deb Kumar Chandra', 'F/1245/2006', 'NB/WB', 2021),
+('DEBASIS CHANDRA NASKAR', 'F/133/2018', 'NB/WB', 2019),
+('Debdatta Mukhopadhyay', 'WB/95/1997', 'NB/WB', 2019),
+('Debnarayan Patra', 'WB/776/2006', 'NB/WB', 2021),
+('Dhiraj Lakhotia', 'EB/76650/2020', 'NB/WB', 2023),
+('DIPANWITA GANGULY', 'F/345/2012', 'NB/WB', 2021),
+('Gouranga Kumar Das', 'WB-407/2000', 'NB/WB', 2021),
+('Himanshu Kumar Singh', 'F/1829/1479/2018', 'NB/WB', 2023),
+('Hritika Sharma', 'F/1528/2021', 'NB/WB', 2022),
+('IMTIAZ AHAMAD LD ATTORNEY', 'F/1956/2016', 'NB/WB', 2019);
+
+
+
+
+
+
+INSERT INTO individuals (name, id_number, category, year)
+VALUES
+('JAGANNATH GHOSH', 'EB/01687/2013', 'NB/WB', 2023),
+('Jayanta Deb Sinha', 'F/1948/1758/2016', 'NB/WB', 2020),
+('Jayanta Kumar Painy', 'EB/01304/1996', 'NB/WB', 2021),
+('JOYDEEP ROY', 'EB/00981/2012', 'NB/WB', 2021),
+('Kallol Mondal', 'WBB/00087/1993', 'NB/WB', 2021),
+('Karabi Roy', 'EB/857/2004', 'NB/WB', 2021),
+('Karma Tendup Bhutia', 'F/1143/1121/1984', 'NB/WB', 2022),
+('Kushal Bhattacharjee', 'F/02440/2021', 'NB/WB', 2022),
+('Madhu Jana', 'F/1563/2013', 'NB/WB', 2021),
+('MANABENDRA MAHATO', 'F/1129/2021', 'NB/WB', 2023),
+('MANISH KUMAR SINGH', 'F/1814/1628/2011', 'NB/WB', 2019),
+('Mazhar Hossain Chowdhury', 'WBI/00371/2009', 'NB/WB', 2021),
+('MD MAMUN RASHID', 'EB/F2398/2017', 'NB/WB', 2022),
+('MD REAZUL HOQUE', 'EB/01557/2019', 'NB/WB', 2023),
+('Md Sahadat Alam', 'F/827/930/2020', 'NB/WB', 2022),
+('Meenakshi Aron', 'EB/27871/2021', 'NB/WB', 2023),
+('Meenal Sinha', 'EB/01252-B/2013', 'NB/WB', 2021),
+('MIJANUL KABIR', 'EB/04099/2022', 'NB/WB', 2023),
+('Mit Guha Roy', 'WB/1810/2013', 'NB/WB', 2019),
+('Mithu Bhattacharya', 'F/987/655/2011', 'NB/WB', 2021),
+('Mithu Bhattacharya', 'EB/00987/855/2011', 'NB/WB', 2021),
+('MOUMITA DAS', 'EB/1459/2006', 'NB/WB', 2023),
+('Mukul Biswas', 'EB/92/80/2018', 'NB/WB', 2023),
+('Narendra Prasad Yadav', 'WBL/00114/2012', 'NB/WB', 2021),
+('Navanil De', 'WB/1575/2003', 'NB/WB', 2021),
+('Nikita Patra', 'F/877/1102/2017', 'NB/WB', 2020),
+('Nimphuti Sherpa', 'F/687/2005', 'NB/WB', 2023),
+('Nirmalendu Pal', 'EB/WB942/1995', 'NB/WB', 2023),
+('Pankaj Choudhary', 'F/1032/1128/2015', 'NB/WB', 2020),
+('Pankaj Kumar Tiwari', 'EB/1642/2020', 'NB/WB', 2020),
+('PANTU DEB ROY', 'EB/931/1983', 'NB/WB', 2021),
+('Paramita Pattanayak', 'F/562/2010', 'NB/WB', 2022),
+('Partha Sarathi Karmakar', 'WB/416/2003', 'NB/WB', 2020),
+('Pranoy Ghosh', 'F/02571/2530/2021', 'NB/WB', 2023),
+('Pratyush Patwari', 'WB/1321/2007', 'NB/WB', 2021),
+('Prosenjit Das', 'F/2175/1807/2011', 'NB/WB', 2023),
+('Pushpa Kusum', 'F/1297/2020', 'NB/WB', 2022),
+('Rahul Das', 'EB/01900/2009', 'NB/WB', 2022),
+('Raja Paswan', 'F/1059/2015', 'NB/WB', 2019),
+('Rajat S Roy', 'WB395/2011', 'NB/WB', 2021),
+('Rajat Singh', 'F/2644/2181/2019', 'NB/WB', 2023),
+('Rajdeep Lahiri', 'F/1283/1370/2012', 'NB/WB', 2019),
+('Rajlaxmi Das', 'F/932/2020', 'NB/WB', 2022),
+('Raju Ghosh', 'F/1250/2018', 'NB/WB', 2023),
+('Ranjan Mondal', 'F/1902/1875/2009', 'NB/WB', 2019),
+('Ranjeeta Kumari', 'F/474/2006', 'NB/WB', 2022),
+('REENA KUMARI', 'EB/01628/2002', 'NB/WB', 2022),
+('Rishabh Ahmad Khan', 'EB/2314/2203/2022', 'NB/WB', 2024),
+('Ritobroto Banerjee', 'WB/1635/2006', 'NB/WB', 2020),
+('SABNAM DE', 'EB/01019/1999', 'NB/WB', 2021);
+
+
+
+
+
+
+
+
+
+
+
+
+INSERT INTO individuals (name, id_number, category, year)
+VALUES
+('Sajana Chettri', 'EB/00726/2021', 'NB/WB', 2023),
+('SAMIR CHAKRABARTI', 'WB/484/1998', 'NB/WB', 2020),
+('Samriddhi Majumder', 'F/115/19/2020', 'NB/WB', 2021),
+('SANAT KUMAR DUTTA', 'EB/794/1993', 'NB/WB', 2021),
+('Sandipan Pal', 'EB/1881/2010', 'NB/WB', 2021),
+('Sanjib Majumder', 'F/190/213 OF 2016', 'NB/WB', 1970),
+('SANJU AGARWAL', 'F/243/2023', 'NB/WB', 2023),
+('Sankar Ghosh', 'F/752/2016', 'NB/WB', 2022),
+('SANTANU CHAKRABORTY', 'EB/00071/2011', 'NB/WB', 2023),
+('Santosh Kumar Prasad', 'F/1257/1103/2015', 'NB/WB', 1970),
+('Sashikant Saw', 'F/77/75/2018', 'NB/WB', 2022),
+('SAURADEEP DUTTA', 'F/927/2015', 'NB/WB', 2021),
+('Shaibal Roy Chowdhury', 'F/1045/2016', 'NB/WB', 2023),
+('Shamik Chatterjee', 'WBI/01794/2010', 'NB/WB', 2020),
+('Shankar Kumar Chakraborty', 'EB/697/1993', 'NB/WB', 2023),
+('Shankar Singh', 'WB/F/1111/1996', 'NB/WB', 2020),
+('Shankar Singh', 'WB/F/1111/1997', 'NB/WB', 1970),
+('Shankha Shubhra Mukherjee', 'UP04448/2013', 'NB/WB', 2021),
+('Sharmistha Paul', 'F/1759/2021', 'NB/WB', 2023),
+('Shibsankar Saha', 'F/923/1821/2013', 'NB/WB', 2019),
+('Shyamal Kumar Saha', 'EB/395/1980', 'NB/WB', 2023),
+('SMITI GHOSH', 'EB/378/2007', 'NB/WB', 2021),
+('SOBHAN BISWAS', 'F/1105/1244/2013', 'NB/WB', 2023),
+('Soham Sur', 'F/1408/2018', 'NB/WB', 2022),
+('Somnath Gangopadhyay', 'WB/141/2001', 'NB/WB', 2021),
+('Soumen Ghosh', 'EB/04834/2021', 'NB/WB', 2022),
+('Soumen Halder', 'EB/01085/2012', 'NB/WB', 1970),
+('Soumyajit Das Mahapatra', 'EB/02245/2009', 'NB/WB', 2021),
+('Souradyuti Dey', 'F/3973/3332/2021', 'NB/WB', 2023),
+('Sourav Kumar Sarkar', 'F/1620//2018', 'NB/WB', 2022),
+('Sreyashee Biswas', 'WB/558/2003', 'NB/WB', 2021),
+('Subhadip Das', 'F/4274/2022', 'NB/WB', 2023),
+('Subhajit Roy', 'F/1012/391/2018', 'NB/WB', 2020),
+('SubhankarDas', 'EB/779/1990', 'NB/WB', 2023),
+('SUBHRANGSHU NATHSARKAR', 'EB/00308/2001', 'NB/WB', 2022),
+('Subrata Banerjee', 'F/1509/2018', 'NB/WB', 2022),
+('Subrata Sarkar', 'EB/92/2017', 'NB/WB', 2023),
+('SUBRATHA RAY', 'WB/1585/2018', 'NB/WB', 2019),
+('Sudeshna Biswas', 'F/941/2020', 'NB/WB', 2021),
+('Sudipto Panda', 'F/661/644/1991', 'NB/WB', 2021),
+('SUGATA SHANKAR ROY', 'WB/473/2006', 'NB/WB', 2019),
+('Sujay Das', 'WB/150/1995', 'NB/WB', 2020),
+('Sukanta Aich', 'F/4007/3245/2022', 'NB/WB', 2023),
+('SUKHENDU MUKHOPADHYAY', 'WB/188/1993', 'NB/WB', 2020),
+('SUMIT PRAMANIK', 'F/258/02485/2021', 'NB/WB', 2022),
+('Sumitra Das', 'F/00790/2009', 'NB/WB', 2021),
+('Sunny Jaiswal', 'F/2225/1978/2018', 'NB/WB', 1970),
+('Suphal Sanyal', 'F/433/2023', 'NB/WB', 2023),
+('Suresh Kumar Sahoo', 'F/1969/1938/2017', 'NB/WB', 2019),
+('Susmita Karmakar', 'EB/4563/3719/2021', 'NB/WB', 2023);
+
+
+
+
+
+
+
+INSERT INTO individuals (name, id_number, category, year)
+VALUES
+('Swetank Rai', 'F/1077/997/2018', 'NB/WB', 2019),
+('Syed Nasim Aejaz', 'EB/2003/2002', 'NB/WB', 2021),
+('Tanmoy Chattopadhyay', 'EB/01101/2019', 'NB/WB', 2021),
+('TAPAN KUMAR SAHA', 'EB/808/1987', 'NB/WB', 2021),
+('Tapan Maiti', 'F/1564/1556/2015', 'NB/WB', 2023),
+('Tapas Kumar Sukul', 'EB/3059/1999', 'NB/WB', 2023),
+('Tapas Paul', 'F/193/2012', 'NB/WB', 2024),
+('Tashi Doma Bhutia', 'WB/00019/2006', 'NB/WB', 2023),
+('TULI SINHA', 'WEB/02120/2009', 'NB/WB', 2021),
+('Vikas Baisya', 'F/278/2009', 'NB/WB', 2020),
+('Yash Singh Chouhan', 'EB/911/718/2021', 'NB/WB', 2022);
+
+
+
+
+
+
+
+
+
+
+
+
+
