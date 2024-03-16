@@ -4,45 +4,58 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="style.css">
-    <title>Document</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <link rel="stylesheet" href="./style.css">
+    <title>Login and Registration Form</title>
 </head>
 
 <body>
-    <div id="main">
-        <nav>
-            <button class="login">Log in</button>
-        </nav>
-        <div class="log-in">
-            <div class="login-main">
-                <div class="login-page">
-                    <h2>Login</h2>
-                    <form action="#">
-                        <div class="input-box">
-                            <span class="icon"><i class="fa-solid fa-envelope"></i></span>
-                            <input type="email" required>
-                            <label>Email</label>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6 offset-md-3">
+                <div class="form-container" id="loginForm">
+                    <h2 class="text-center">Login</h2>
+                    <form>
+                        <div class="form-group">
+                            <label for="loginEmail">Email address</label>
+                            <input type="email" class="form-control" id="loginEmail" aria-describedby="emailHelp" placeholder="Enter email" required>
                         </div>
-                        <div class="input-box">
-                            <span class="icon"><i class="fa-solid fa-lock"></i></span>
-                            <input type="password" required>
-                            <label>Password</label>
+                        <div class="form-group">
+                            <label for="loginPassword">Password</label>
+                            <input type="password" class="form-control" id="loginPassword" placeholder="Password" required>
                         </div>
-                        <div class="remember-forgot">
-                            <label><input type="checkbox">Remember me</label>
-                            <a href="#">Forgot Password</a>
+                        <button type="submit" class="btn btn-primary btn-block">Login</button>
+                        <p class="toggle-form">Don't have an account? <a href="#" onclick="toggleForm()">Register</a>
+                        </p>
+                    </form>
+                </div>
+                <div class="form-container" id="registrationForm" style="display: none;">
+                    <h2 class="text-center">Register</h2>
+                    <form>
+                        <div class="form-group">
+                            <label for="registerName">Name</label>
+                            <input type="text" class="form-control" id="registerName" placeholder="Enter name" required>
                         </div>
-                        <button type="submit" class="login-btn">Login</button>
-                        <div class="register">
-                            <p>Don't have an account?<a href="#" class="register-link">Register</a></p>
+                        <div class="form-group">
+                            <label for="registerEmail">Email address</label>
+                            <input type="email" class="form-control" id="registerEmail" aria-describedby="emailHelp" placeholder="Enter email" required>
                         </div>
+                        <div class="form-group">
+                            <label for="registerPassword">Password</label>
+                            <input type="password" class="form-control" id="registerPassword" placeholder="Password" required>
+                        </div>
+                        <button type="submit" class="btn btn-primary btn-block">Register</button>
+                        <p class="toggle-form">Already have an account? <a href="#" onclick="toggleForm()">Login</a></p>
                     </form>
                 </div>
             </div>
         </div>
     </div>
-    <script src="script.js"></script>
-    <script src="https://kit.fontawesome.com/effc832b1a.js" crossorigin="anonymous"></script>
+
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.4/dist/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+    <script src="./script.js"></script>
 </body>
 
 </html>
