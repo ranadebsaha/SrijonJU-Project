@@ -19,3 +19,12 @@
 .nav-item a:hover::before {
     width: 100%;
 }
+
+#hero .hero-container{
+    height: 85vh;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #008DDA;
+}
