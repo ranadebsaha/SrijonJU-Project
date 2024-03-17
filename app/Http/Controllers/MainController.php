@@ -30,4 +30,25 @@ class MainController extends Controller
         $customer->save();
         return redirect('/');
     }
+
+    public function login(Request $request){
+        $customer= new Customer;
+        if($request['email']!=NULL && $request['password']!=NULL){
+            $email=$request['email'];
+            $customer=Customer::find($email);
+            if(is_null($customer)){
+                return redirect('login');
+            }else{
+                if($customer['password']==$request['password']){
+                    $request->session()->put($customer);
+                    $request->session()->put('login','success');
+                }
+                
+            }
+            
+        }
+        else{
+            echo "error";
+        }
+    }
 }

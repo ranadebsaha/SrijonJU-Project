@@ -1,0 +1,1 @@
+$customer_password=Customer::where('email','=','$email')->pluck('password')
