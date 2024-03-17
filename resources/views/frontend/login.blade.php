@@ -6,6 +6,7 @@
                 <div class="form-container" id="loginForm">
                     <h2 class="text-center">Login</h2>
                     <form method="post" action="{{url('/')}}/register">
+                    @csrf
                         <div class="form-group">
                             <label for="loginEmail">Email address</label>
                             <input type="email" name="email" class="form-control" id="loginEmail" aria-describedby="emailHelp" placeholder="Enter email" required>
