@@ -4,8 +4,8 @@
         <div class="row">
             <div class="col-md-6 offset-md-3">
                 <div class="form-container" id="registrationForm">
-                    <h2 class="text-center">Customer Register</h2>
-                    <form method="post" action="{{url('/register')}}">
+                    <h2 class="text-center">Advocate Register</h2>
+                    <form method="post" action="{{url('/advocate_register')}}">
                     @csrf
                         <div class="form-group">
                             <label for="registerName">Full name</label>
